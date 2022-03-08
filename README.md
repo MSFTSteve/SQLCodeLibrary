@@ -4,4 +4,4 @@
   
 Contents:
 
-Certtools.sql - Contains scripts to view and manipulate certificates or Transparent Data Encryption on SQL Server, SQL DB and SQL Managed Instance
+CerttTools.sql - Contains scripts to view and manipulate certificates or Transparent Data Encryption on SQL Server, SQL DB and SQL Managed Instance
